@@ -24,7 +24,7 @@ import java.io.Console;
 import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String EMAIL = "email";
+    private static final String EMAIL = "email"; //dsa
     private static LoginButton loginButton;
     private CallbackManager fbCallback;
     private  GoogleSignInClient mGoogleSignInClient;
