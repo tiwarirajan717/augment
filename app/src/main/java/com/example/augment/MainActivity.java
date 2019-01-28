@@ -26,7 +26,7 @@ import java.util.Arrays;
 public class MainActivity extends AppCompatActivity {
     private static final String EMAIL = "email"; //dsa
     private static LoginButton loginButton;
-    private CallbackManager fbCallback;
+    private CallbackManager fbCallback;//dsd
     private  GoogleSignInClient mGoogleSignInClient;
     private static int RC_SIGN_IN = 100;
     @Override
